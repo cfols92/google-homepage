@@ -1,1 +1,1 @@
-This is the first project using git in the odin project. I wll be recreating the google homepage.
+This is the first project using git in the odin project. I will be recreating the google homepage.
